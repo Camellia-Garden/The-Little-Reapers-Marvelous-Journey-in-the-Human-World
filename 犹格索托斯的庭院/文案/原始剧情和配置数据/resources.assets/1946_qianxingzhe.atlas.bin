@@ -1,0 +1,90 @@
+
+qianxingzhe.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+d
+  rotate: true
+  xy: 454, 542
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+dg
+  rotate: true
+  xy: 773, 691
+  size: 300, 186
+  orig: 300, 186
+  offset: 0, 0
+  index: -1
+hc
+  rotate: false
+  xy: 487, 741
+  size: 284, 250
+  orig: 284, 250
+  offset: 0, 0
+  index: -1
+hc2
+  rotate: true
+  xy: 876, 530
+  size: 159, 115
+  orig: 159, 115
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 628
+  size: 483, 363
+  orig: 516, 414
+  offset: 0, 51
+  index: -1
+yc1
+  rotate: true
+  xy: 227, 527
+  size: 99, 105
+  orig: 218, 201
+  offset: 21, 0
+  index: -1
+yc2
+  rotate: false
+  xy: 713, 574
+  size: 161, 115
+  orig: 161, 115
+  offset: 0, 0
+  index: -1
+yj
+  rotate: true
+  xy: 334, 561
+  size: 65, 118
+  orig: 65, 118
+  offset: 0, 0
+  index: -1
+yq
+  rotate: true
+  xy: 487, 624
+  size: 115, 224
+  orig: 115, 224
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 116, 518
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+zc
+  rotate: true
+  xy: 2, 518
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+zj
+  rotate: true
+  xy: 334, 490
+  size: 69, 104
+  orig: 69, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+miaojiang.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fw1
+  rotate: true
+  xy: 2, 2
+  size: 83, 109
+  orig: 83, 116
+  offset: 0, 7
+  index: -1
+fw2
+  rotate: false
+  xy: 425, 603
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+hf
+  rotate: false
+  xy: 2, 671
+  size: 337, 350
+  orig: 416, 384
+  offset: 79, 4
+  index: -1
+l
+  rotate: true
+  xy: 123, 450
+  size: 219, 186
+  orig: 219, 186
+  offset: 0, 0
+  index: -1
+qf
+  rotate: true
+  xy: 2, 338
+  size: 331, 119
+  orig: 358, 119
+  offset: 27, 0
+  index: -1
+qf1
+  rotate: true
+  xy: 123, 349
+  size: 99, 173
+  orig: 99, 191
+  offset: 0, 18
+  index: -1
+qf2
+  rotate: true
+  xy: 2, 87
+  size: 249, 141
+  orig: 275, 146
+  offset: 26, 5
+  index: -1
+qf3
+  rotate: true
+  xy: 113, 3
+  size: 82, 204
+  orig: 82, 213
+  offset: 0, 0
+  index: -1
+qf4
+  rotate: false
+  xy: 341, 867
+  size: 62, 154
+  orig: 62, 154
+  offset: 0, 0
+  index: -1
+qz
+  rotate: true
+  xy: 364, 357
+  size: 148, 80
+  orig: 156, 127
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 298, 356
+  size: 92, 64
+  orig: 94, 67
+  offset: 1, 2
+  index: -1
+tw
+  rotate: false
+  xy: 341, 693
+  size: 111, 19
+  orig: 119, 19
+  offset: 8, 0
+  index: -1
+wb
+  rotate: false
+  xy: 476, 897
+  size: 48, 124
+  orig: 48, 124
+  offset: 0, 0
+  index: -1
+yb
+  rotate: false
+  xy: 311, 507
+  size: 53, 162
+  orig: 53, 162
+  offset: 0, 0
+  index: -1
+ye
+  rotate: false
+  xy: 321, 175
+  size: 145, 179
+  orig: 145, 179
+  offset: 0, 0
+  index: -1
+yf
+  rotate: false
+  xy: 145, 164
+  size: 174, 183
+  orig: 174, 183
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 423, 753
+  size: 65, 124
+  orig: 65, 124
+  offset: 0, 0
+  index: -1
+yk
+  rotate: false
+  xy: 145, 106
+  size: 168, 56
+  orig: 168, 56
+  offset: 0, 0
+  index: -1
+ys
+  rotate: false
+  xy: 341, 714
+  size: 80, 151
+  orig: 83, 151
+  offset: 3, 0
+  index: -1
+yz
+  rotate: false
+  xy: 405, 879
+  size: 69, 142
+  orig: 72, 169
+  offset: 0, 11
+  index: -1
+zb
+  rotate: false
+  xy: 311, 481
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+ze
+  rotate: true
+  xy: 390, 4
+  size: 169, 114
+  orig: 182, 123
+  offset: 13, 0
+  index: -1
+zj
+  rotate: false
+  xy: 366, 574
+  size: 57, 117
+  orig: 62, 117
+  offset: 0, 0
+  index: -1
+zs
+  rotate: true
+  xy: 319, 2
+  size: 160, 69
+  orig: 175, 69
+  offset: 0, 0
+  index: -1

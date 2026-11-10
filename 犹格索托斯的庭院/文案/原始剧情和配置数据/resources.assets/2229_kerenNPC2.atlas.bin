@@ -1,0 +1,118 @@
+
+kerenNPC2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b
+  rotate: true
+  xy: 695, 657
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+hf
+  rotate: false
+  xy: 2, 690
+  size: 363, 331
+  orig: 380, 342
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 367, 852
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 552, 840
+  size: 40, 10
+  orig: 40, 10
+  offset: 0, 0
+  index: -1
+qf1
+  rotate: true
+  xy: 820, 901
+  size: 120, 201
+  orig: 129, 201
+  offset: 0, 0
+  index: -1
+qf2
+  rotate: true
+  xy: 800, 652
+  size: 52, 100
+  orig: 65, 100
+  offset: 3, 0
+  index: -1
+st
+  rotate: true
+  xy: 367, 717
+  size: 133, 183
+  orig: 133, 188
+  offset: 0, 5
+  index: -1
+yf
+  rotate: true
+  xy: 817, 795
+  size: 104, 199
+  orig: 125, 214
+  offset: 12, 15
+  index: -1
+yj
+  rotate: true
+  xy: 815, 706
+  size: 87, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+ys
+  rotate: true
+  xy: 552, 731
+  size: 70, 141
+  orig: 70, 145
+  offset: 0, 4
+  index: -1
+yz
+  rotate: false
+  xy: 695, 755
+  size: 118, 46
+  orig: 118, 46
+  offset: 0, 0
+  index: -1
+zb
+  rotate: false
+  xy: 552, 831
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+zf
+  rotate: true
+  xy: 594, 803
+  size: 122, 221
+  orig: 132, 226
+  offset: 0, 0
+  index: -1
+zf2
+  rotate: true
+  xy: 594, 927
+  size: 94, 224
+  orig: 98, 224
+  offset: 4, 0
+  index: -1
+zj
+  rotate: true
+  xy: 552, 663
+  size: 66, 133
+  orig: 73, 133
+  offset: 7, 0
+  index: -1
+zs
+  rotate: false
+  xy: 954, 659
+  size: 66, 134
+  orig: 68, 134
+  offset: 0, 0
+  index: -1

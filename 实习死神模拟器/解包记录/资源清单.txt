@@ -1,0 +1,97 @@
+resources.assets Counter({'MonoBehaviour': 431, 'GameObject': 348, 'RectTransform': 348, 'CanvasRenderer': 223, 'Shader': 24, 'Texture2D': 9, 'Sprite': 6, 'Canvas': 2, 'Material': 1, 'RenderTexture': 1, 'Font': 1})
+globalgamemanagers.assets Counter({'MonoScript': 2749, 'Texture2D': 49, 'Shader': 31, 'MonoBehaviour': 4, 'Sprite': 2, 'PreloadData': 1, 'Material': 1})
+sharedassets0.assets Counter({'PreloadData': 1})
+07f4008d27f2c779d3d7f6e6a2c7c7b5.bundle Counter({'Shader': 1, 'AssetBundle': 1})
+100ad4adf86bce5f1dc7d80e59c7cab9.bundle Counter({'RectTransform': 1, 'Material': 1, 'AssetBundle': 1, 'GameObject': 1, 'ParticleSystem': 1, 'ParticleSystemRenderer': 1, 'Texture2D': 1})
+1c53f669e87590c7e3ed6aea4acc3cba.bundle Counter({'TextAsset': 75, 'AssetBundle': 1})
+  TextAsset -8243998463132603346 'ReadingItemInfo'
+  TextAsset -8237898039491007608 'FunctionOpenControl'
+  TextAsset -7970273482186475756 'LevelEffect'
+  TextAsset -7708303073688702874 'DailyTips'
+  TextAsset -7667563312011985567 'DressGroup'
+  TextAsset -7294665013538964503 'TileBase'
+  TextAsset -7223065335174137619 'GlobalParamString'
+  TextAsset -7170573351438085537 'Quest'
+  TextAsset -7003688387940900745 'RelicEffect'
+  TextAsset -6578656248976007074 'FunctionEnum'
+  TextAsset -6495486857173697166 'TranscendentItem'
+  TextAsset -6433838940762710116 'LevelUp'
+  TextAsset -6278389812788945476 'CookingItem'
+  TextAsset -5659859336965823037 'TileMapInfo'
+  TextAsset -5004704260423318622 'RestaurantKitchenware'
+  TextAsset -4995624179439071533 'WeaponPara'
+  TextAsset -4201816479922906460 'WeaponFeature'
+  TextAsset -4018629331183491745 'DailyAnim'
+  TextAsset -3473695314150889833 'HandBook'
+  TextAsset -3163763783220068219 'QuestAction'
+  TextAsset -3098724528601990424 'EventGroup'
+  TextAsset -2914876919166637552 'RandomGroup'
+  TextAsset -2865777864617860776 'IllustrationForce'
+  TextAsset -2759444003572275346 'NPCTaskGroup'
+  TextAsset -2513366390621898101 'Favorability'
+  TextAsset -2493060084566763232 'Preload'
+  TextAsset -2326215276399724821 'Feature'
+  TextAsset -2120658400786378145 'CGHandBook'
+  TextAsset -2057189587204071577 'TileEvent'
+  TextAsset -1940093013640703216 'Weapon'
+  TextAsset -1849430959966079564 'InteractiveObject'
+  TextAsset -1681146351553312799 'Conversation'
+  TextAsset -1661402703192086567 'ExpressionAnim'
+  TextAsset -1495935648101520623 'RoundEvent'
+  TextAsset -1393587074033763587 'Attributes'
+  TextAsset -1371829509081903991 'ShopBase'
+  TextAsset -894968412978450712 'QTEAreaTable'
+  TextAsset 56843681978682772 'TileBaseData'
+  TextAsset 386628345706909066 'Dress'
+  TextAsset 849197626756221883 'ActionEnum'
+  TextAsset 1406040559123604421 'RestaurantGuestGroup'
+  TextAsset 1640120972959661010 'Task'
+  TextAsset 2297914662130568056 'EffectBase'
+  TextAsset 2406165152554522583 'Operation'
+  TextAsset 2635411735859921380 'ThankLiat'
+  TextAsset 2817172247811735971 'UnitBase'
+  TextAsset 2978707162583464771 'RestaurantLevel'
+  TextAsset 3424200406062646668 'TileAtmosphereController'
+  TextAsset 3752891528266637475 'QTEData'
+  TextAsset 3954068148964360050 'MonsterData'
+  TextAsset 4060197025858270356 'CollectData'
+  TextAsset 5204729233051576262 'Event'
+  TextAsset 5494122929846136816 'RestaurantRecipe'
+  TextAsset 5629268484279560305 'ShopItem'
+  TextAsset 5741142564330964266 'QTEAreaLogicTable'
+  TextAsset 6212182428743019441 'RestaurantDesk'
+  TextAsset 6478649905296522931 'Effect'
+  TextAsset 6528860948916329913 'RelicLevelUp'
+  TextAsset 6799825970078591608 'RelicExp'
+  TextAsset 6961850253283064802 'ButtonCorrelation'
+  TextAsset 7192548721979046831 'Talk'
+  TextAsset 7236332358628523094 'RelicGroup'
+  TextAsset 7245574914468289924 'SanBase'
+  TextAsset 7627659138472650402 'StudyAndMake'
+  TextAsset 7706503398787317627 'SystemSound'
+  TextAsset 7748548363602474424 'Item'
+  TextAsset 7841044594658952035 'Character'
+  TextAsset 8268864298965338040 'Illustration'
+  TextAsset 8272373490376403067 'Language'
+  TextAsset 8789976898788242613 'Condition'
+  TextAsset 8888169829996220611 'Achievement'
+  TextAsset 8928656820143673814 'QTEPointerTable'
+  TextAsset 8941621155570848216 'ItemGroup'
+  TextAsset 8968680544611791324 'BuffBase'
+  TextAsset 9069684797444528234 'LanguageTalk'
+1de4a3d66db6a73885a529afa2c09461.bundle Counter({'Texture2D': 1, 'Sprite': 1, 'AssetBundle': 1})
+23cd2ead63e67a353a6274d0da1a44d9.bundle Counter({'MonoBehaviour': 7, 'Transform': 5, 'GameObject': 5, 'MonoScript': 5, 'Camera': 2, 'AssetBundle': 1, 'AudioListener': 1})
+5438821826917fc259f4cbf9969e9825.bundle Counter({'MonoBehaviour': 1420, 'GameObject': 902, 'RectTransform': 896, 'CanvasRenderer': 772, 'MonoScript': 45, 'CanvasGroup': 29, 'Canvas': 17, 'Transform': 6, 'Animator': 4, 'Sprite': 3, 'Texture2D': 3, 'AudioSource': 3, 'SpriteRenderer': 1, 'ParticleSystem': 1, 'Material': 1, 'ParticleSystemRenderer': 1, 'VideoPlayer': 1, 'AssetBundle': 1, 'SortingGroup': 1})
+704f20d85a09c4d4c6d759c740ecbf5e.bundle Counter({'Material': 1, 'Font': 1, 'AssetBundle': 1, 'Texture2D': 1})
+79bfc035cfb05e07640ea9e47a7381ce.bundle Counter({'Font': 2, 'Material': 2, 'Texture2D': 2, 'AssetBundle': 1})
+81cb52cc4b224d75fdb6b083d3c7d27c.bundle Counter({'AssetBundle': 1, 'Material': 1})
+a73889506ccfb78b70b5b8f6d7e3f9ee.bundle Counter({'Texture2D': 32, 'Sprite': 32, 'AssetBundle': 1})
+ac6338994712266b5e56d13fb1011dce.bundle Counter({'Sprite': 145, 'Texture2D': 145, 'AssetBundle': 1})
+b4d542c8896e889ecbaf804039895e08.bundle Counter({'AnimatorController': 3, 'AnimationClip': 3, 'AssetBundle': 1})
+c02d4c6b8598b160513a8ac093ea8321.bundle Counter({'Texture2D': 1, 'Sprite': 1, 'AssetBundle': 1})
+cc91ca5b4e9f86883a277ef76dab25f9.bundle Counter({'Sprite': 67, 'Texture2D': 67, 'AssetBundle': 1})
+cf5d129502924f0377fade70e9f5198a.bundle Counter({'Material': 5, 'Font': 5, 'Texture2D': 5, 'AssetBundle': 1})
+da7666d3f1a17c443a072cd2bcf26451.bundle Counter({'Sprite': 75, 'Texture2D': 31, 'AssetBundle': 1})
+df8084e7de54a08e1d57deec7087e8ee.bundle Counter({'AssetBundle': 1, 'Texture2D': 1, 'Material': 1, 'Font': 1})
+f10c9c289f7c610881a9618adaa39e72.bundle Counter({'Sprite': 11, 'Texture2D': 11, 'AssetBundle': 1})
+f678e237c0dc960d63e46aeb35722694.bundle Counter({'Texture2D': 55, 'Sprite': 55, 'AssetBundle': 1})

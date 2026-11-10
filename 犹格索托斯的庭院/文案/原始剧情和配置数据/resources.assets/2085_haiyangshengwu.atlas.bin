@@ -1,0 +1,153 @@
+
+haiyangshengwu.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dm
+  rotate: false
+  xy: 277, 746
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 640, 744
+  size: 190, 133
+  orig: 190, 133
+  offset: 0, 0
+  index: -1
+mz1
+  rotate: false
+  xy: 2, 832
+  size: 333, 188
+  orig: 340, 194
+  offset: 0, 6
+  index: -1
+mz2
+  rotate: false
+  xy: 899, 820
+  size: 121, 200
+  orig: 121, 200
+  offset: 0, 0
+  index: -1
+mz3
+  rotate: false
+  xy: 832, 767
+  size: 65, 110
+  orig: 65, 110
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 640, 879
+  size: 257, 141
+  orig: 257, 141
+  offset: 0, 0
+  index: -1
+q2
+  rotate: true
+  xy: 822, 661
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+qf1
+  rotate: true
+  xy: 822, 544
+  size: 92, 177
+  orig: 96, 177
+  offset: 4, 0
+  index: -1
+qf2
+  rotate: true
+  xy: 605, 515
+  size: 93, 152
+  orig: 93, 152
+  offset: 0, 0
+  index: -1
+qf3
+  rotate: true
+  xy: 337, 640
+  size: 87, 155
+  orig: 87, 155
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 640, 610
+  size: 180, 132
+  orig: 180, 132
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 832, 711
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 494, 595
+  size: 97, 109
+  orig: 97, 109
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 277, 664
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 581
+  size: 266, 131
+  orig: 266, 131
+  offset: 0, 0
+  index: -1
+yf
+  rotate: false
+  xy: 899, 638
+  size: 114, 180
+  orig: 116, 180
+  offset: 0, 0
+  index: -1
+yhf
+  rotate: true
+  xy: 337, 729
+  size: 291, 301
+  orig: 291, 301
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 494, 694
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+yl
+  rotate: false
+  xy: 1001, 611
+  size: 13, 25
+  orig: 15, 27
+  offset: 1, 1
+  index: -1
+zf
+  rotate: true
+  xy: 2, 714
+  size: 116, 273
+  orig: 116, 290
+  offset: 0, 0
+  index: -1
+zhf
+  rotate: false
+  xy: 270, 556
+  size: 91, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1

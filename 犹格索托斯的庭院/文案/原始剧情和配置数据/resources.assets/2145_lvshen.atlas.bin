@@ -1,0 +1,160 @@
+
+lvshen.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dz
+  rotate: false
+  xy: 904, 937
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+hf1
+  rotate: false
+  xy: 244, 366
+  size: 451, 231
+  orig: 451, 231
+  offset: 0, 0
+  index: -1
+hf2
+  rotate: false
+  xy: 179, 957
+  size: 88, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 689, 945
+  size: 119, 77
+  orig: 119, 77
+  offset: 0, 0
+  index: -1
+l
+  rotate: true
+  xy: 833, 538
+  size: 243, 189
+  orig: 243, 223
+  offset: 0, 0
+  index: -1
+ly1
+  rotate: true
+  xy: 810, 945
+  size: 77, 92
+  orig: 77, 93
+  offset: 0, 1
+  index: -1
+ly2
+  rotate: true
+  xy: 269, 955
+  size: 67, 173
+  orig: 67, 173
+  offset: 0, 0
+  index: -1
+ly3
+  rotate: true
+  xy: 2, 876
+  size: 89, 138
+  orig: 89, 138
+  offset: 0, 0
+  index: -1
+qf
+  rotate: true
+  xy: 397, 827
+  size: 117, 207
+  orig: 128, 207
+  offset: 0, 0
+  index: -1
+qf2
+  rotate: true
+  xy: 598, 599
+  size: 182, 233
+  orig: 182, 240
+  offset: 0, 0
+  index: -1
+qf3
+  rotate: true
+  xy: 2, 456
+  size: 192, 240
+  orig: 192, 240
+  offset: 0, 0
+  index: -1
+sy
+  rotate: false
+  xy: 444, 952
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+wb
+  rotate: true
+  xy: 415, 627
+  size: 198, 181
+  orig: 198, 201
+  offset: 0, 20
+  index: -1
+ye
+  rotate: true
+  xy: 2, 693
+  size: 170, 226
+  orig: 173, 226
+  offset: 3, 0
+  index: -1
+yf
+  rotate: true
+  xy: 142, 865
+  size: 90, 108
+  orig: 91, 108
+  offset: 1, 0
+  index: -1
+yj
+  rotate: true
+  xy: 230, 650
+  size: 175, 183
+  orig: 191, 183
+  offset: 0, 0
+  index: -1
+ys
+  rotate: true
+  xy: 252, 859
+  size: 94, 143
+  orig: 94, 143
+  offset: 0, 0
+  index: -1
+ze
+  rotate: true
+  xy: 774, 783
+  size: 152, 211
+  orig: 152, 211
+  offset: 0, 0
+  index: -1
+zf
+  rotate: true
+  xy: 64, 967
+  size: 55, 113
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+zj
+  rotate: true
+  xy: 606, 808
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+zs1
+  rotate: true
+  xy: 586, 946
+  size: 76, 101
+  orig: 79, 103
+  offset: 2, 1
+  index: -1
+zs2
+  rotate: true
+  xy: 2, 977
+  size: 45, 60
+  orig: 47, 62
+  offset: 1, 1
+  index: -1

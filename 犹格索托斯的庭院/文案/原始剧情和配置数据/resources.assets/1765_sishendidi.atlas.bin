@@ -1,0 +1,160 @@
+
+sishendidi.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cb
+  rotate: true
+  xy: 295, 295
+  size: 145, 81
+  orig: 145, 81
+  offset: 0, 0
+  index: -1
+df
+  rotate: false
+  xy: 2, 701
+  size: 291, 320
+  orig: 327, 320
+  offset: 0, 0
+  index: -1
+fd
+  rotate: true
+  xy: 295, 710
+  size: 35, 82
+  orig: 35, 82
+  offset: 0, 0
+  index: -1
+l
+  rotate: true
+  xy: 2, 220
+  size: 210, 178
+  orig: 214, 178
+  offset: 0, 0
+  index: -1
+mw
+  rotate: false
+  xy: 362, 844
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+qf1
+  rotate: true
+  xy: 2, 16
+  size: 91, 199
+  orig: 93, 199
+  offset: 2, 0
+  index: -1
+qf2
+  rotate: true
+  xy: 424, 2
+  size: 44, 114
+  orig: 49, 114
+  offset: 5, 0
+  index: -1
+qf3
+  rotate: false
+  xy: 182, 220
+  size: 111, 210
+  orig: 111, 210
+  offset: 0, 0
+  index: -1
+qf4
+  rotate: false
+  xy: 2, 432
+  size: 187, 267
+  orig: 187, 267
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 203, 7
+  size: 100, 142
+  orig: 100, 145
+  offset: 0, 3
+  index: -1
+wy1
+  rotate: true
+  xy: 304, 145
+  size: 75, 155
+  orig: 75, 155
+  offset: 0, 0
+  index: -1
+wy2
+  rotate: false
+  xy: 355, 917
+  size: 46, 104
+  orig: 46, 104
+  offset: 0, 0
+  index: -1
+xh
+  rotate: false
+  xy: 424, 48
+  size: 83, 95
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+yf
+  rotate: true
+  xy: 2, 109
+  size: 109, 300
+  orig: 109, 306
+  offset: 0, 6
+  index: -1
+yj
+  rotate: false
+  xy: 191, 521
+  size: 108, 178
+  orig: 108, 178
+  offset: 0, 0
+  index: -1
+ys
+  rotate: false
+  xy: 347, 3
+  size: 75, 140
+  orig: 75, 143
+  offset: 0, 3
+  index: -1
+yyb
+  rotate: true
+  xy: 295, 222
+  size: 71, 158
+  orig: 71, 158
+  offset: 0, 0
+  index: -1
+zb
+  rotate: true
+  xy: 2, 2
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+zf
+  rotate: true
+  xy: 295, 747
+  size: 49, 99
+  orig: 49, 99
+  offset: 0, 0
+  index: -1
+zj
+  rotate: true
+  xy: 191, 442
+  size: 77, 166
+  orig: 82, 166
+  offset: 2, 0
+  index: -1
+zs
+  rotate: false
+  xy: 295, 798
+  size: 65, 95
+  orig: 68, 97
+  offset: 1, 2
+  index: -1
+zyb
+  rotate: false
+  xy: 295, 895
+  size: 58, 126
+  orig: 58, 126
+  offset: 0, 0
+  index: -1

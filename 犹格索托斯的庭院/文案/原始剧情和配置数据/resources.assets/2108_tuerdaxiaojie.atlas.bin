@@ -1,0 +1,181 @@
+
+tuerdaxiaojie.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bq
+  rotate: false
+  xy: 403, 685
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+bz1
+  rotate: 180
+  xy: 668, 820
+  size: 138, 202
+  orig: 138, 202
+  offset: 0, 0
+  index: -1
+bz2
+  rotate: 270
+  xy: 599, 704
+  size: 118, 202
+  orig: 126, 202
+  offset: 8, 0
+  index: -1
+ed1
+  rotate: 270
+  xy: 843, 709
+  size: 86, 128
+  orig: 95, 134
+  offset: 0, 6
+  index: -1
+ed2
+  rotate: false
+  xy: 530, 723
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+hdj
+  rotate: false
+  xy: 853, 645
+  size: 70, 71
+  orig: 70, 73
+  offset: 0, 2
+  index: -1
+hh
+  rotate: 270
+  xy: 431, 698
+  size: 137, 154
+  orig: 137, 154
+  offset: 0, 0
+  index: -1
+jm
+  rotate: false
+  xy: 386, 652
+  size: 157, 53
+  orig: 157, 53
+  offset: 0, 0
+  index: -1
+lh1
+  rotate: 180
+  xy: 803, 770
+  size: 94, 252
+  orig: 94, 252
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 286, 1002
+  size: 94, 20
+  orig: 94, 20
+  offset: 0, 0
+  index: -1
+mz
+  rotate: false
+  xy: 318, 799
+  size: 184, 223
+  orig: 184, 223
+  offset: 0, 0
+  index: -1
+pd
+  rotate: false
+  xy: 938, 657
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+st
+  rotate: 180
+  xy: 475, 811
+  size: 207, 211
+  orig: 207, 211
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 2, 726
+  size: 329, 298
+  orig: 382, 529
+  offset: 0, 188
+  index: -1
+t1
+  rotate: true
+  xy: 620, 964
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 584, 659
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: 270
+  xy: 264, 725
+  size: 76, 178
+  orig: 76, 185
+  offset: 0, 7
+  index: -1
+tf2
+  rotate: 180
+  xy: 883, 864
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 54, 653
+  size: 42, 101
+  orig: 42, 101
+  offset: 0, 0
+  index: -1
+xz
+  rotate: 180
+  xy: 889, 762
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+yb
+  rotate: false
+  xy: 718, 689
+  size: 151, 54
+  orig: 151, 54
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 276, 683
+  size: 125, 55
+  orig: 125, 55
+  offset: 0, 0
+  index: -1
+ys
+  rotate: 270
+  xy: 144, 661
+  size: 77, 118
+  orig: 77, 118
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 2, 1015
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+zs
+  rotate: 270
+  xy: 2, 695
+  size: 68, 132
+  orig: 68, 132
+  offset: 0, 0
+  index: -1

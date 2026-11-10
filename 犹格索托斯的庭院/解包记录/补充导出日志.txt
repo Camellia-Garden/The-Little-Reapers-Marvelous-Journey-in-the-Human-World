@@ -1,0 +1,19 @@
+Counter({'GameObject': 13775, 'MonoBehaviour': 13768, 'RectTransform': 8613, 'CanvasRenderer': 6730, 'Transform': 5162, 'MonoScript': 2019, 'Sprite': 1936, 'SpriteRenderer': 1769, 'Texture2D': 1564, 'TextAsset': 540, 'ParticleSystem': 312, 'ParticleSystemRenderer': 311, 'SortingGroup': 224, 'Material': 129, 'BoxCollider': 119, 'Animator': 111, 'Canvas': 82, 'MeshRenderer': 81, 'MeshFilter': 81, 'Shader': 67, 'AnimatorController': 59, 'AnimationClip': 55, 'MeshCollider': 51, 'CanvasGroup': 49, 'Mesh': 20, 'Font': 11, 'AudioSource': 5, 'PolygonCollider2D': 4, 'CapsuleCollider': 3, 'Camera': 2, 'PreloadData': 2, 'Rigidbody2D': 1, 'BoxCollider2D': 1, 'AudioListener': 1, 'TrailRenderer': 1, 'Light': 1, 'VideoPlayer': 1})
+ERROR Texture2D 334 PermissionError(13, 'Permission denied')
+ERROR Texture2D 505 PermissionError(13, 'Permission denied')
+ERROR Texture2D 811 PermissionError(13, 'Permission denied')
+ERROR Texture2D 1025 PermissionError(13, 'Permission denied')
+ERROR Texture2D 1413 PermissionError(13, 'Permission denied')
+ERROR Texture2D 9 PermissionError(13, 'Permission denied')
+ERROR Texture2D 10 PermissionError(13, 'Permission denied')
+ERROR Texture2D 11 PermissionError(13, 'Permission denied')
+ERROR Texture2D 12 PermissionError(13, 'Permission denied')
+ERROR Texture2D 13 PermissionError(13, 'Permission denied')
+ERROR Texture2D 14 PermissionError(13, 'Permission denied')
+OK Texture2D 9 'LDR_LLL1_25'
+OK Texture2D 10 'LDR_LLL1_4'
+OK Texture2D 11 'LDR_LLL1_6'
+OK Texture2D 12 'LDR_LLL1_14'
+OK Texture2D 13 'LDR_LLL1_15'
+OK Texture2D 14 'Medium05'
+EXPORTED Counter({'Texture2D': 6})

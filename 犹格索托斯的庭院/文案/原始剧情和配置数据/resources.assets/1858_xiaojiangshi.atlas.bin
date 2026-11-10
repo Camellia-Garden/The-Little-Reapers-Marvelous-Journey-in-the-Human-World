@@ -1,0 +1,153 @@
+
+xiaojiangshi.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fz
+  rotate: false
+  xy: 2, 892
+  size: 93, 114
+  orig: 93, 114
+  offset: 0, 0
+  index: -1
+hf
+  rotate: false
+  xy: 225, 645
+  size: 281, 213
+  orig: 281, 213
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 2, 703
+  size: 221, 169
+  orig: 221, 178
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 2, 1008
+  size: 95, 12
+  orig: 95, 12
+  offset: 0, 0
+  index: -1
+mz
+  rotate: false
+  xy: 508, 607
+  size: 301, 192
+  orig: 301, 204
+  offset: 0, 0
+  index: -1
+qf1
+  rotate: true
+  xy: 869, 932
+  size: 88, 142
+  orig: 88, 162
+  offset: 0, 6
+  index: -1
+qf2
+  rotate: true
+  xy: 97, 874
+  size: 90, 139
+  orig: 90, 139
+  offset: 0, 0
+  index: -1
+qf3
+  rotate: true
+  xy: 642, 801
+  size: 130, 170
+  orig: 130, 170
+  offset: 0, 0
+  index: -1
+sf
+  rotate: false
+  xy: 99, 977
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 814, 748
+  size: 182, 206
+  orig: 182, 209
+  offset: 0, 3
+  index: -1
+yb
+  rotate: false
+  xy: 668, 936
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+yf
+  rotate: true
+  xy: 238, 871
+  size: 91, 164
+  orig: 91, 164
+  offset: 0, 0
+  index: -1
+yj
+  rotate: true
+  xy: 273, 964
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+yjf
+  rotate: true
+  xy: 516, 832
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1
+ys
+  rotate: true
+  xy: 404, 860
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 160, 966
+  size: 111, 54
+  orig: 111, 54
+  offset: 0, 0
+  index: -1
+zb
+  rotate: false
+  xy: 441, 960
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+zj
+  rotate: true
+  xy: 360, 964
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+zjf
+  rotate: false
+  xy: 583, 939
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+zs1
+  rotate: true
+  xy: 756, 933
+  size: 87, 111
+  orig: 87, 111
+  offset: 0, 0
+  index: -1
+zs2
+  rotate: true
+  xy: 507, 959
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1

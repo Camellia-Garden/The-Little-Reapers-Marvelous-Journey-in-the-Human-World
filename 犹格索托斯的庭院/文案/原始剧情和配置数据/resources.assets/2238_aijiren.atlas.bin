@@ -1,0 +1,125 @@
+
+aijiren.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cs1
+  rotate: false
+  xy: 922, 866
+  size: 93, 149
+  orig: 93, 149
+  offset: 0, 0
+  index: -1
+cs2
+  rotate: false
+  xy: 642, 539
+  size: 157, 137
+  orig: 157, 137
+  offset: 0, 0
+  index: -1
+cs3
+  rotate: false
+  xy: 663, 678
+  size: 177, 116
+  orig: 177, 116
+  offset: 0, 0
+  index: -1
+cs4
+  rotate: true
+  xy: 642, 406
+  size: 131, 151
+  orig: 131, 151
+  offset: 0, 0
+  index: -1
+cs5
+  rotate: false
+  xy: 429, 575
+  size: 169, 126
+  orig: 169, 126
+  offset: 0, 0
+  index: -1
+hf
+  rotate: false
+  xy: 429, 703
+  size: 232, 142
+  orig: 232, 142
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 429, 847
+  size: 245, 168
+  orig: 245, 183
+  offset: 0, 15
+  index: -1
+lz1
+  rotate: false
+  xy: 801, 528
+  size: 35, 148
+  orig: 35, 148
+  offset: 0, 0
+  index: -1
+lz2
+  rotate: true
+  xy: 838, 495
+  size: 34, 130
+  orig: 38, 130
+  offset: 0, 0
+  index: -1
+lz3
+  rotate: false
+  xy: 600, 538
+  size: 40, 163
+  orig: 40, 163
+  offset: 0, 0
+  index: -1
+lz4
+  rotate: true
+  xy: 838, 531
+  size: 33, 151
+  orig: 33, 151
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 842, 566
+  size: 165, 170
+  orig: 165, 170
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 2, 658
+  size: 425, 357
+  orig: 425, 435
+  offset: 0, 78
+  index: -1
+ts
+  rotate: true
+  xy: 676, 796
+  size: 219, 244
+  orig: 219, 244
+  offset: 0, 0
+  index: -1
+ts2
+  rotate: false
+  xy: 795, 419
+  size: 120, 74
+  orig: 120, 74
+  offset: 0, 0
+  index: -1
+ts3
+  rotate: false
+  xy: 842, 733
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+xl
+  rotate: true
+  xy: 922, 774
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1

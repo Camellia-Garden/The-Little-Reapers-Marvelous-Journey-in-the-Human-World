@@ -1,0 +1,7 @@
+﻿来源,对象ID,错误
+resources.assets,2491,ValueError('cannot convert float NaN to integer')
+resources.assets,2617,"UFuncTypeError(<ufunc 'solve1'>, 'same_kind', dtype('O'), dtype('float64'), 1)"
+resources.assets,4117,ValueError('cannot convert float NaN to integer')
+resources.assets,4238,"UFuncTypeError(<ufunc 'solve1'>, 'same_kind', dtype('O'), dtype('float64'), 1)"
+resources.assets,4245,"UFuncTypeError(<ufunc 'solve1'>, 'same_kind', dtype('O'), dtype('float64'), 1)"
+resources.assets,4281,ValueError('cannot convert float NaN to integer')

@@ -1,0 +1,23 @@
+resources.assets {'Texture2D': 8, 'Sprite': 6} failures 1
+globalgamemanagers.assets {'Texture2D': 57, 'Sprite': 8} failures 1
+sharedassets0.assets {'Texture2D': 57, 'Sprite': 8} failures 1
+07f4008d27f2c779d3d7f6e6a2c7c7b5.bundle {'Texture2D': 57, 'Sprite': 8} failures 1
+100ad4adf86bce5f1dc7d80e59c7cab9.bundle {'Texture2D': 58, 'Sprite': 8} failures 1
+1c53f669e87590c7e3ed6aea4acc3cba.bundle {'Texture2D': 58, 'Sprite': 8, 'TextAsset': 75} failures 1
+1de4a3d66db6a73885a529afa2c09461.bundle {'Texture2D': 59, 'Sprite': 9, 'TextAsset': 75} failures 1
+23cd2ead63e67a353a6274d0da1a44d9.bundle {'Texture2D': 59, 'Sprite': 9, 'TextAsset': 75} failures 1
+5438821826917fc259f4cbf9969e9825.bundle {'Texture2D': 62, 'Sprite': 12, 'TextAsset': 75} failures 1
+704f20d85a09c4d4c6d759c740ecbf5e.bundle {'Texture2D': 62, 'Sprite': 12, 'TextAsset': 75} failures 2
+79bfc035cfb05e07640ea9e47a7381ce.bundle {'Texture2D': 62, 'Sprite': 12, 'TextAsset': 75} failures 4
+81cb52cc4b224d75fdb6b083d3c7d27c.bundle {'Texture2D': 62, 'Sprite': 12, 'TextAsset': 75} failures 4
+a73889506ccfb78b70b5b8f6d7e3f9ee.bundle {'Texture2D': 94, 'Sprite': 44, 'TextAsset': 75} failures 4
+ac6338994712266b5e56d13fb1011dce.bundle {'Texture2D': 239, 'Sprite': 189, 'TextAsset': 75} failures 4
+b4d542c8896e889ecbaf804039895e08.bundle {'Texture2D': 239, 'Sprite': 189, 'TextAsset': 75} failures 4
+c02d4c6b8598b160513a8ac093ea8321.bundle {'Texture2D': 240, 'Sprite': 190, 'TextAsset': 75} failures 4
+cc91ca5b4e9f86883a277ef76dab25f9.bundle {'Texture2D': 307, 'Sprite': 257, 'TextAsset': 75} failures 4
+cf5d129502924f0377fade70e9f5198a.bundle {'Texture2D': 307, 'Sprite': 257, 'TextAsset': 75} failures 9
+da7666d3f1a17c443a072cd2bcf26451.bundle {'Texture2D': 338, 'Sprite': 332, 'TextAsset': 75} failures 9
+df8084e7de54a08e1d57deec7087e8ee.bundle {'Texture2D': 338, 'Sprite': 332, 'TextAsset': 75} failures 10
+f10c9c289f7c610881a9618adaa39e72.bundle {'Texture2D': 349, 'Sprite': 343, 'TextAsset': 75} failures 10
+f678e237c0dc960d63e46aeb35722694.bundle {'Texture2D': 404, 'Sprite': 398, 'TextAsset': 75} failures 10
+完成 {'Texture2D': 404, 'Sprite': 398, 'TextAsset': 75, '视频': 3, '音频库': 10} 失败 10

@@ -1,0 +1,132 @@
+
+xiaogongfeng.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cx1
+  rotate: false
+  xy: 990, 806
+  size: 31, 97
+  orig: 31, 97
+  offset: 0, 0
+  index: -1
+cx2
+  rotate: false
+  xy: 715, 636
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+df
+  rotate: false
+  xy: 2, 753
+  size: 327, 268
+  orig: 327, 268
+  offset: 0, 0
+  index: -1
+gh
+  rotate: true
+  xy: 489, 677
+  size: 146, 72
+  orig: 146, 72
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 331, 825
+  size: 234, 196
+  orig: 234, 196
+  offset: 0, 0
+  index: -1
+qf
+  rotate: false
+  xy: 331, 686
+  size: 156, 137
+  orig: 156, 137
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 888, 464
+  size: 94, 139
+  orig: 94, 139
+  offset: 0, 0
+  index: -1
+stx
+  rotate: true
+  xy: 567, 724
+  size: 116, 189
+  orig: 116, 191
+  offset: 0, 0
+  index: -1
+yc1
+  rotate: true
+  xy: 567, 842
+  size: 179, 198
+  orig: 179, 203
+  offset: 0, 5
+  index: -1
+yc2
+  rotate: true
+  xy: 563, 605
+  size: 117, 150
+  orig: 120, 150
+  offset: 3, 0
+  index: -1
+yf
+  rotate: true
+  xy: 767, 905
+  size: 116, 251
+  orig: 116, 251
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 125, 682
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+ys
+  rotate: true
+  xy: 2, 676
+  size: 75, 121
+  orig: 75, 121
+  offset: 0, 0
+  index: -1
+zc1
+  rotate: true
+  xy: 758, 667
+  size: 129, 164
+  orig: 129, 164
+  offset: 0, 0
+  index: -1
+zc2
+  rotate: true
+  xy: 755, 555
+  size: 110, 131
+  orig: 130, 150
+  offset: 0, 0
+  index: -1
+zf1
+  rotate: false
+  xy: 924, 605
+  size: 77, 191
+  orig: 77, 191
+  offset: 0, 0
+  index: -1
+zf2
+  rotate: true
+  xy: 767, 798
+  size: 105, 221
+  orig: 105, 221
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 257, 632
+  size: 44, 119
+  orig: 44, 119
+  offset: 0, 0
+  index: -1
